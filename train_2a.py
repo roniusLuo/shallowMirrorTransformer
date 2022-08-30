@@ -331,8 +331,8 @@ if __name__ == '__main__':
     test_data_2b = np.expand_dims(test_data_2b, 1)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch-size', type=int, default=10)
+    parser.add_argument('--batch-size', type=int, default=80)
     parser.add_argument('--lr', type=float, default=1e-4, help='learning rate')
-    parser.add_argument('--epochs', type=int, default=1)
+    parser.add_argument('--epochs', type=int, default=500)
     opt = parser.parse_args()
     train(opt,train_data,data_label,test_data,test_data_label,test_data_2b,test_data_label_2b)
