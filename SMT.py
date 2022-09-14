@@ -1,5 +1,7 @@
 """
 Shallow Mirror Transformer
+
+Written by Jing Luo from Xi'an University of Technology, China.
 """
 
 import numpy as np
