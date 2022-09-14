@@ -1,6 +1,6 @@
 # shallowMirrorTransformer
 
-Implement of Shallow Mirror Transformer (SMT).
+Implement of Shallow Mirror Transformer (SMT). Writteen by Jing Luo from Xi'an University of Technology, China.
 
 Model is build in SMT.py. Data reading, preprocessing and model training is done in tran_2a.py.
 
