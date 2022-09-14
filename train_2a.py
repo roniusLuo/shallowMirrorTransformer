@@ -1,3 +1,11 @@
+"
+Model training and testing.
+
+Written by Jing Luo from Xi'an University of Technology, China.
+
+luojing@xaut.edu.cn
+"
+
 import logging
 import os
 import os.path
