@@ -2,7 +2,7 @@
 
 Implement of Shallow Mirror Transformer (SMT). Written by Jing Luo from Xi'an University of Technology, China.
 
-Model is build in SMT.py. Data reading, preprocessing and model training is done in tran_2a.py.
+Model is built in SMT.py. Data reading, preprocessing and model training is done in tran_2a.py.
 
 BCI Competition IV dataset 2a and 2b are applied to verify the performance of SMT.
 
